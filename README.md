@@ -1,7 +1,7 @@
 Hello friends and colleagues, 
 
 I am a graduate at the University of California, Riverside who obtained a degree in Business Economics with a concentration
-in computational statisics. I am also Revenue Data Analyst @Seel.
+in computational statisics and a Revenue Data Analyst @Seel.
 
 My technical skill sets include: Terminal/Linus commands, CSS(Bootstrap), HTML, Javascript(Node.js/ Dom Manipulation), Python(libraries: numpy, matplotlib.pyplot, pandas), and SQL. 
 
