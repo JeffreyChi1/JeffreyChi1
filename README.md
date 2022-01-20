@@ -13,7 +13,7 @@ If you have any questions or concerns regarding anything, feel free to contact m
 
 
 Cheers,
-Jeffrey
+Jeffrey Chi
 
 <!---
 JeffreyChi1/JeffreyChi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
